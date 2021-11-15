@@ -13,7 +13,7 @@ body {
 
   background-color: var(--Pale_blue);
   overflow: hidden; /* Tira a barra de rolagem */
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(./images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
 }
 
