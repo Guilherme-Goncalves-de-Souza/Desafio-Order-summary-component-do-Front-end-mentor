@@ -73,15 +73,15 @@ main p {
 
 .annual_plan p:nth-child(2) {
   margin-top: -62px;
-  margin-right: 46px;
+  margin-left: -36px;
   color: var(--Dark_blue);
   font-weight: bolder;
 }
 
 .annual_plan p:nth-child(3) {
-  margin-right: 46px;
+  margin-left: -36px;
   font-weight: bolder;
-  margin-top: 09px;
+  margin-top: 07px;
 }
 
 .change {
