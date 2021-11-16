@@ -43,9 +43,10 @@ main p {
   font-family: 'Red Hat Display', sans-serif;
   margin-top: 0.8rem;
   color: var(--Desaturated_blue);
+  width: 300px;
 }
 
-#illustration {
+.illustration {
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 0px;
@@ -83,7 +84,7 @@ main p {
   margin-top: 09px;
 }
 
-#change {
+.change {
   margin-left: 70px;
   margin-top: -50px;
   position: absolute;
@@ -93,12 +94,12 @@ main p {
   font-size: 13px;
 }
 
-#change:hover {
+.change:hover {
   text-decoration: none;
   opacity: 0.7;
 }
 
-#b1 {
+.b1 {
   position: relative;
   display: inline;
   display: flex;
@@ -117,7 +118,7 @@ main p {
   font-weight: bolder;
 }
 
-#b2 {
+.b2 {
   padding: 14px;
   background-color: white;
   border: none;
@@ -129,10 +130,10 @@ main p {
   margin-top: 12px;
 }
 
-#b1:hover {
+.b1:hover {
   opacity: 0.8;
 }
 
-#b2:hover {
+.b2:hover {
   color: var(--Dark_blue);
 }
